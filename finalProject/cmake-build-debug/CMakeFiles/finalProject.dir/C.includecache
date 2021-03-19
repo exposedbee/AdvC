@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Users/saud/Clion/AdvC/finalProject/List/List.h
+stdlib.h
+-
+../errrorhandeling/status.h
+E:/Users/saud/Clion/AdvC/finalProject/errrorhandeling/status.h
+
+E:/Users/saud/Clion/AdvC/finalProject/Map/Map.c
+stdio.h
+-
+mem.h
+-
+map.h
+E:/Users/saud/Clion/AdvC/finalProject/Map/map.h
+
+E:/Users/saud/Clion/AdvC/finalProject/Map/map.h
+../List/List.h
+E:/Users/saud/Clion/AdvC/finalProject/List/List.h
+
+E:/Users/saud/Clion/AdvC/finalProject/errrorhandeling/status.h
+

@@ -1,0 +1,3 @@
+E:/Users/saud/Clion/AdvC/Stacktest/cmake-build-debug/CMakeFiles/Stacktest.dir
+E:/Users/saud/Clion/AdvC/Stacktest/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Users/saud/Clion/AdvC/Stacktest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

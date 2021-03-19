@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Users/saud/Clion/AdvC/first/IntArray.c
+stdio.h
+-
+malloc.h
+-
+IntArray.h
+E:/Users/saud/Clion/AdvC/first/IntArray.h
+
+E:/Users/saud/Clion/AdvC/first/IntArray.h
+
+E:/Users/saud/Clion/AdvC/first/tIntArray..c
+stdio.h
+-
+IntArray.h
+E:/Users/saud/Clion/AdvC/first/IntArray.h
+

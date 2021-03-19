@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Users/saud/Clion/AdvC/untitled/Gsort/gsort.h
+
+E:/Users/saud/Clion/AdvC/untitled/Gsort/tgsort.c
+string.h
+-
+stdio.h
+-
+gsort.h
+E:/Users/saud/Clion/AdvC/untitled/Gsort/gsort.h
+../IntArray/IntArray.h
+E:/Users/saud/Clion/AdvC/untitled/IntArray/IntArray.h
+
+E:/Users/saud/Clion/AdvC/untitled/IntArray/IntArray.h
+

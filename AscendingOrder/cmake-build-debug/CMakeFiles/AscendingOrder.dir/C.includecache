@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Users/saud/Clion/AdvC/AscendingOrder/gSort.h
+
+E:/Users/saud/Clion/AdvC/AscendingOrder/tSort.c
+mem.h
+-
+stdio.h
+-
+gSort.h
+E:/Users/saud/Clion/AdvC/AscendingOrder/gSort.h
+
